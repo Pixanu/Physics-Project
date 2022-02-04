@@ -1,0 +1,16 @@
+﻿  Cube.cpp
+C:\Users\alex_\Documents\GitHub\8695039-217CR-Assignment\217CR -Project-Ivan Alexandru\Cube.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  GameEngine.cpp
+C:\Users\alex_\Documents\GitHub\8695039-217CR-Assignment\217CR -Project-Ivan Alexandru\Cube.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\alex_\Documents\GitHub\8695039-217CR-Assignment\217CR -Project-Ivan Alexandru\GameEngine.cpp(95,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\alex_\Documents\GitHub\8695039-217CR-Assignment\217CR -Project-Ivan Alexandru\GameEngine.cpp(139,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  GameObject.cpp
+  Main.cpp
+C:\Users\alex_\Documents\GitHub\8695039-217CR-Assignment\217CR -Project-Ivan Alexandru\Cube.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Particle.cpp
+  Player.cpp
+  Rigidbody2D.cpp
+  Sphere.cpp
+  SphereCollider.cpp
+  Generating Code...
+  217CR -Project-Ivan Alexandru.vcxproj -> C:\Users\alex_\Documents\GitHub\8695039-217CR-Assignment\217CR -Project-Ivan Alexandru\x64\Debug\217CR -Project-Ivan Alexandru.exe
